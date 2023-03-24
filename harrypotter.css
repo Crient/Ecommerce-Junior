@@ -1,0 +1,27 @@
+
+
+
+
+
+.container-fluid{
+    background-color: #96DED1;
+    margin-bottom: -10px;
+    margin-top: 10px;
+    padding: 5px;
+}
+.container-fluid a, .container-fluid i, .container-flui span{
+   color: #008080;
+}
+.navtext{
+    font-size: 10px;
+}
+
+/* img NEGATIVE MARGIN adjustment */
+.navbar  {
+    margin-top: -1.25rem !important;
+  }
+
+   
+.carousel-inner{
+    background-size: cover;
+}
